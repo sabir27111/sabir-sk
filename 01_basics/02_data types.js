@@ -32,3 +32,4 @@ console.log(typeof name); // NOTE: string (output type of deta type)
 console.log(typeof age); // NOTE: number (output type of deta type)
 console.log(typeof undefined); // NOTE: undefined (output type of deta type)
 console.log(typeof null); // NOTE: object  (output type of deta type)
+
